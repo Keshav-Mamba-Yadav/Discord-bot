@@ -37,4 +37,4 @@ async def ban(ctx,member : discord.Member,*,reason= "No reason"):
 
     await member.ban(reason=reason)
 
-client.run("Nzk0ODM3MjE5NDk5OTY2NDY0.X_An2A.9-RLKxiLr7aEGIThUkM13n1ZPvQ")
+client.run("BOT TOKEN HERE")
